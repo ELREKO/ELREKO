@@ -22,14 +22,11 @@ Prior to starting my studies at 42, I spent eight years in systems programming a
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40"  height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
 
 ### Others 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="<GitHub" width="40" height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /><img style="margin: 10px" src="pic/Microsoft_Visual_Basic_for_Applications_logo.png" alt="VBA" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="<GitHub" width="40" height="40"/><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /><img style="margin: 10px" src="pic/Microsoft_Visual_Basic_for_Applications_logo.png" alt="VBA" height="40" />
 
 <h3><span style="text-decoration: underline;">plant programming skills</span></h3>
 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Codesys_Logo.svg" alt="CodeSys" height="40" />
-<img style="margin: 10px" src="pic/Tia.png" alt="CodeSys" height="40" />
-<img style="margin: 10px" src="pic/SoMachine.png" alt="CodeSys" height="40" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Codesys_Logo.svg" alt="CodeSys" height="40" /><img style="margin: 10px" src="pic/Tia.png" alt="CodeSys" height="40" /><img style="margin: 10px" src="pic/SoMachine.png" alt="CodeSys" height="40" />
 
 
 
