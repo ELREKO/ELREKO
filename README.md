@@ -5,7 +5,9 @@
 
 [![rkost's 42 stats](https://badge.mediaplus.ma/binary/rkost)](https://github.com/oakoudad/badge42)
 
-<h4 align="left"><img style="margin-right: 15px; vertical-align: middle;" src="pic/soving.png" alt="icon_solving" height="80" width="80"/><a href="Projectoverview.md"> ▶️  Solved Projects</a></h4>
+---
+<h2 align="left"><img style="margin-right: 15px; vertical-align: middle;" src="pic/soving.png" alt="icon_solving" height="80" width="80"/><a href="Projectoverview.md"> ▶️  Solved Projects</a></h2>
+---
 
 Prior to starting my studies at 42, I spent eight years in systems programming and commissioning. Details about the companies I worked for and my career progression can be found on my [Xing](https://www.xing.com/profile/Rene_Kost3/web_profiles?sc_o=navigation_profile_icon&sc_o_PropActionOrigin=navigation_neffi_100&expandNeffi=true) Profil.
 
