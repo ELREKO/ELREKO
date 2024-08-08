@@ -6,7 +6,7 @@
 [![rkost's 42 stats](https://badge.mediaplus.ma/binary/rkost)](https://github.com/oakoudad/badge42)
 
 ---
-<h2 align="left"><img style="margin-right: 15px; vertical-align: middle;" src="pic/soving.png" alt="icon_solving" height="80" width="80"/><a href="Projectoverview.md"> ▶️  Solved Projects</a></h2>
+
 
 <h2 align="center">Befor my 42 studies</h2>
 
