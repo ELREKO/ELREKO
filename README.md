@@ -3,7 +3,6 @@
 
 ## I am a Student at [42 berlin](https://42berlin.de/)👨🏻‍💻📚
 
-[![rkost's 42 stats](https://badge.mediaplus.ma/binary/rkost)](https://github.com/oakoudad/badge42)
 
 ---
 
